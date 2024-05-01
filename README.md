@@ -8,9 +8,9 @@ This is the repository for the python Tensorflow based Colabs for training the t
 
 ## DIRECTORIES
 
-|Name|Usage|
+| Name | Usage |
 ------------
-|DataPreprocessing-BodyPartDetection|Colab code for preparing data for the Body Part Detection Model|
-|DataPreprocessing-Regression|Colab code for preparing data for the Regression Model|
-|BodyPartDetection|Colab code for building, training and testing the Body Part Detection Model|
-|Regression|Colab code for building, training and testing the Regression model|
+| DataPreprocessing-BodyPartDetection | Colab code for preparing data for the Body Part Detection Model |
+| DataPreprocessing-Regression | Colab code for preparing data for the Regression Model |
+| BodyPartDetection | Colab code for building, training and testing the Body Part Detection Model |
+| Regression | Colab code for building, training and testing the Regression model |
